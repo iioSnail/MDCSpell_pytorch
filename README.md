@@ -20,7 +20,7 @@
 
 数据集地址：[百度网盘](https://pan.baidu.com/s/1x67LPiYAjLKhO1_2CI6aOA?pwd=skda) ; [Google Drive](https://drive.google.com/drive/folders/1dC09i57lobL91lEbpebDuUBS0fGz-LAk)
 
-我的模型：[百度网盘](链接：https://pan.baidu.com/s/1yxuQY8V3ZrmmYcJvTRkDmQ?pwd=pffg)
+我的模型：[百度网盘](https://pan.baidu.com/s/1yxuQY8V3ZrmmYcJvTRkDmQ?pwd=pffg)
 
 
 
